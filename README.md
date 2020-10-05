@@ -1,4 +1,4 @@
-# twotter
+# Twotter
 
 ## Project setup
 ```
